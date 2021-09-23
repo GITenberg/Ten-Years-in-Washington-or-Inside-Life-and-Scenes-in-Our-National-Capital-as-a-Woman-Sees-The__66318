@@ -1,11 +1,16 @@
 _repo: Ten-Years-in-Washington-or-Inside-Life-and-Scenes-in-Our-National-Capital-as-a-Woman-Sees-The__66318
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66318-h/images/cover.jpg
 creator:
   author:
     agent_name: Clemmer, Mary
     gutenberg_agent_id: '53748'
     url: http://www.gutenberg.org/2009/agents/53748
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66318#Ten-Years-in-Washington-or-Inside-Life-and-Scenes-in-Our-National-Capital-as-a-Woman-Sees-The_
 gutenberg_issued: '2021-09-16'
 identifiers:
   gutenberg: '66318'
